@@ -1,0 +1,4 @@
+Inorder to stop unnenecesary robots to sites
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow:
