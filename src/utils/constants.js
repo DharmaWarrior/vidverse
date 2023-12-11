@@ -13,7 +13,7 @@ import TheaterComedyIcon from '@mui/icons-material/TheaterComedy';
 import FitnessCenterIcon from '@mui/icons-material/FitnessCenter';
 import DeveloperModeIcon from '@mui/icons-material/DeveloperMode';
 
-export const logo = 'https://drive.google.com/file/d/12ro93pVpNHPKj0TajtdIIYtgwoUyHVoA/view?usp=sharing';
+export const logo = 'https://i.ibb.co/3v8hLSr/logo.png';
 export const writing = 'https://i.ibb.co/WGcKjWT/writing.png';
 
 export const categories = [
