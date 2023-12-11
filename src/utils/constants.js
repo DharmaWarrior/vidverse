@@ -13,8 +13,8 @@ import TheaterComedyIcon from '@mui/icons-material/TheaterComedy';
 import FitnessCenterIcon from '@mui/icons-material/FitnessCenter';
 import DeveloperModeIcon from '@mui/icons-material/DeveloperMode';
 
-export const logo = 'https://thumbs2.imgbox.com/4a/7e/26dIuigQ_t.png';
-export const writing = 'https://thumbs2.imgbox.com/05/d6/Y4HCiTJp_t.png';
+export const logo = 'https://drive.google.com/file/d/12ro93pVpNHPKj0TajtdIIYtgwoUyHVoA/view?usp=sharing';
+export const writing = 'https://i.ibb.co/WGcKjWT/writing.png';
 
 export const categories = [
   { name: 'New', icon: <HomeIcon />, },
